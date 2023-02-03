@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Arthur",
+      "email": "avprocopio@gmail.com",
+      "bio": "Professor da Turma 26, a mais braba de todas!",
+      "password": "123456",
+      "createdAt": 1675343609017,
+      "id": 1
+    },
+    {
+      "email": "teste@betrybe.com",
+      "password": "123",
+      "createdAt": 1675389107015,
+      "id": 2,
+      "name": "Meu nome de novo",
+      "bio": "uma bio muito legal"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Meu primeiro",
+      "body": "Aqui vai uma história bem legal, era uma vez..."
+    },
+    {
+      "title": "TEste",
+      "body": "teste teste",
+      "userId": 1,
+      "createdAt": 1675390924504,
+      "id": 2
+    }
+  ]
+}
